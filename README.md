@@ -4,3 +4,4 @@ I have been a fashion model my whole life, but now I am studying Web Development
 
 My interest are: arts and crafts, outdoor activities, tech and cooking.
 
+I can speak Spanish and English fluently and I have an A1 in German.
