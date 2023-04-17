@@ -1,7 +1,7 @@
-Hello world! My name is Julieta Magnago, I am from Argentina but currently based in Hamburg, Germany.
+Hello world! My name is Julieta Magnago, and I am originally from Argentina, but currently based in Hamburg, Germany.
 
-I am a very driven person, I used to be a model, but I soon realized that my energies deserved something better. Now, I am a Full-Stack Developer, and thankfully so. My main assets are creative problem solving, passion for continuosly learning and improving and a clear, effective communications. 
+I am a highly motivated individual who previously worked as a model. However, I realized that my energy was better suited to a more intelectually challenging, limitless career. I am now a Full-Stack Developer, which is much more fulfilling. My main strengths include creative problem-solving, a passion for continuous learning and improvement, and effective communication skills.
 
-Tech Stack: HTML | CSS | JavaScript | React | NodeJs | SQL | Express | MongoDB
+My technical expertise includes HTML, CSS, JavaScript, React, NodeJs, SQL, Express, and MongoDB.
 
-I can speak Spanish and English fluently and I have an A1 in German.
+In addition, I am fluent in both Spanish and English and have an A1 proficiency level in German.
