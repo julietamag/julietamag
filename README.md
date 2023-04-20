@@ -24,6 +24,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=julietamag&show_icons=true&locale=en&layout=compact" alt="julietamag" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=julietamag&show_icons=true&locale=en" alt="julietamag" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=julietamag&" alt="julietamag" /></p>
-
