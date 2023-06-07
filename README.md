@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **TypeScript, Next.js and MongoDB**
 
-- 👯 I’m looking to collaborate on **exciting real-world projects with like-minded individuals.**
+- 👯 I’m looking to collaborate on **exciting projects with like-minded individuals.**
 
 - 🧚 Check my Porfolio [https://julieta-magnago-dev-porfolio.vercel.app/](https://julieta-magnago-dev-porfolio.vercel.app/)
 
