@@ -7,7 +7,7 @@
 
 - 🧚 Check my Porfolio [https://julieta-magnago-dev-porfolio.vercel.app/](https://julieta-magnago-dev-porfolio.vercel.app/)
 
-- 🗣 I speak [Spanish and English like a pro and a very begginer, shy German.](Spanish and English like a pro and a very begginer, shy German.)
+- 🗣 I speak **Spanish and English like a pro and a very begginer, shy German.**
 
 - 💬 Ask me about **anything, would love to chat.**
 
