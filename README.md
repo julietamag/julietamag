@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Julieta Magnago</h1>
-<h3 align="center">Full Stack Developer from Argentina based in Hamburg, Germany</h3>
+<h3 align="center">Full Stack Developer from Argentina based in Berlin, Germany</h3>
 
-- 🔭 I’m currently working on **an appointment app for a physical therapy clinic.**
-
-- 🌱 I’m currently learning **TypeScript, Next.js and MongoDB**
+- 🌱 I’m currently learning **Golang**
 
 - 👯 I’m looking to collaborate on **exciting projects with like-minded individuals.**
 
