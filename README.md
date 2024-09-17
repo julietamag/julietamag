@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Julieta Magnago</h1>
-<h3 align="center">Full Stack Developer from Argentina based in Berlin, Germany</h3>
+<h3 align="center">Frontend Engineer from Argentina based in Berlin, Germany</h3>
 
-- 🌱 I’m currently learning **Golang**
+- 🚀 I’m currently working at **Delivery Hero**
 
 - 👯 I’m looking to collaborate on **exciting projects with like-minded individuals.**
 
 - 🧚 Check my Porfolio [https://julieta-magnago-dev-porfolio.vercel.app/](https://julieta-magnago-dev-porfolio.vercel.app/)
 
-- 🗣 I speak **Spanish and English like a pro and a very begginer, shy German.**
+- 🗣 I speak **Spanish and English like a pro and a little bit of German.**
 
 - 💬 Ask me about **anything, would love to chat.**
 
